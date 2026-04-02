@@ -1,2 +1,20 @@
-fastapi
-uvicorn
+{
+  "capital of bangladesh": "Dhaka",
+  "capital of india": "New Delhi",
+  "capital of pakistan": "Islamabad",
+  "capital of nepal": "Kathmandu",
+  "capital of sri lanka": "Sri Jayawardenepura Kotte",
+
+  "largest ocean": "Pacific Ocean",
+  "largest desert": "Antarctic Desert",
+
+  "who are you": "I am CrazyBot",
+  "what is python": "Python is a programming language",
+  "what is fastapi": "FastAPI is a modern Python web framework",
+
+  "minecraft": "Minecraft is a sandbox game where players can build and explore",
+  "who created minecraft": "Minecraft was created by Markus Persson",
+
+  "2+2": "4",
+  "5+5": "10"
+}
